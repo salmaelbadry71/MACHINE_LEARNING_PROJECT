@@ -1,0 +1,4 @@
+4-https://www.kaggle.com/datasets/alessiocorrado99/animals10/code
+3-https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset
+2-https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs
+1-https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices
